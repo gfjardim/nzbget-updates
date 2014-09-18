@@ -1,7 +1,7 @@
 NZBGet.UpdateInfo = {
 	"stable-version": "13.0", 
 	"stable-package-info": "http://nzbget.net/forum/viewtopic.php?f=4&t=1306", 
-	"testing-version": "14.0-r1103", 
+	"testing-version": "14.0-r1123", 
 	"testing-package-info": "http://nzbget.net/forum/viewtopic.php?f=4&t=1418",
 	"devel-version": "14.0-r1126",
 	"devel-package-info": "http://sourceforge.net/p/nzbget/code/HEAD/log/ "
