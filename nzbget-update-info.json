@@ -1,17 +1,8 @@
 NZBGet.UpdateInfo = {
-<<<<<<< HEAD
 	"stable-version": "14.0", 
 	"stable-package-info": "http://nzbget.net/forum/viewtopic.php?f=4&t=1592", 
 	"testing-version": "14.0-r1153", 
 	"testing-package-info": "http://nzbget.net/forum/viewtopic.php?f=4&t=1587",
-	"devel-version": "14.0-r1153",
-	"devel-package-info": "http://sourceforge.net/p/nzbget/code/HEAD/log/ "
-=======
-	"stable-version": "13.0", 
-	"stable-package-info": "http://nzbget.net/forum/viewtopic.php?f=4&t=1306", 
-	"testing-version": "14.0-r1137", 
-	"testing-package-info": "http://nzbget.net/forum/viewtopic.php?f=4&t=1510",
 	"devel-version": "14.0-r1156",
-	"devel-package-info": "http://sourceforge.net/p/nzbget/code/HEAD/log/"
->>>>>>> FETCH_HEAD
+	"devel-package-info": "http://sourceforge.net/p/nzbget/code/HEAD/log/ "
 }
